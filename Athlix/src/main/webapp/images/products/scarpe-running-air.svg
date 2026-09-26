@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+<title id="title">Scarpe Running Air</title>
+<desc id="desc">Illustrazione prodotto AthliX per Scarpe Running Air</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0f172a"/>
+    <stop offset="1" stop-color="#334155"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#22c55e"/>
+  </linearGradient>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg)"/>
+<circle cx="400" cy="255" r="150" fill="#ffffff" opacity="0.08"/>
+<circle cx="400" cy="255" r="112" fill="none" stroke="url(#accent)" stroke-width="18"/>
+<text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="76" font-weight="700" fill="#ffffff">SR</text>
+<text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Scarpe Running Air</text>
+<text x="400" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#cbd5e1">AthliX • Sport Store</text>
+</svg>

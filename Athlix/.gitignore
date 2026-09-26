@@ -1,0 +1,11 @@
+/build/
+/bin/
+/target/
+*.class
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.metadata/
+Servers/
